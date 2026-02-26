@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-02-26",
+  "modules": [
+    {
+      "slug": "contact-form",
+      "name": "Contact Form",
+      "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "category": "Forms",
+      "icon": "envelope",
+      "tags": ["contact", "form", "email"],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/contact-form.zip"
+    }
+  ],
+  "themes": []
+}
