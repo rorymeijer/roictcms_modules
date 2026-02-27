@@ -6,7 +6,7 @@
       "slug": "contact-form",
       "name": "Contact Form",
       "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "ROICT",
       "category": "Forms",
       "icon": "envelope",
