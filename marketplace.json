@@ -5,8 +5,8 @@
     {
       "slug": "wysiwyg-editor",
       "name": "WYSIWYG Editor",
-      "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). Werkt automatisch op pagina's en nieuwsberichten.",
-      "version": "1.0.0",
+      "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). De afbeeldingsknop opent de interne media manager in plaats van een upload-dialoog.",
+      "version": "1.1.0",
       "author": "ROICT",
       "category": "Editor",
       "icon": "pencil-square",
