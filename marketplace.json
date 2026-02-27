@@ -19,8 +19,8 @@
     {
       "slug": "contact-form",
       "name": "Contact Form",
-      "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
-      "version": "1.0.2",
+      "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel. Ondersteunt de [contact_form] shortcode in paginacontent.",
+      "version": "1.0.3",
       "author": "ROICT",
       "category": "Forms",
       "icon": "envelope",
