@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "updated": "2026-02-26",
+  "version": "1.0.2",
+  "updated": "2026-02-27",
   "modules": [
     {
       "slug": "contact-form",
@@ -15,6 +15,20 @@
       "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/contact-form.zip"
+    },
+    {
+      "slug": "two-factor-auth",
+      "name": "Two-Factor Authentication",
+      "description": "Beveilig beheeraccounts met twee-factor authenticatie (TOTP/RFC 6238). Werkt met Google Authenticator, Microsoft Authenticator en andere TOTP-apps.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "category": "Security",
+      "icon": "shield-lock",
+      "tags": ["security", "2fa", "totp", "authentication"],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/two-factor-auth.zip"
     }
   ],
   "themes": []
