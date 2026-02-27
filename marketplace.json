@@ -20,7 +20,7 @@
       "slug": "two-factor-auth",
       "name": "Two-Factor Authentication",
       "description": "Beveilig beheeraccounts met twee-factor authenticatie (TOTP/RFC 6238). Werkt met Google Authenticator, Microsoft Authenticator en andere TOTP-apps.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "ROICT",
       "category": "Security",
       "icon": "shield-lock",
