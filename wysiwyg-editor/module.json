@@ -1,0 +1,11 @@
+{
+  "slug": "wysiwyg-editor",
+  "name": "WYSIWYG Editor",
+  "version": "1.0.0",
+  "author": "ROICT",
+  "description": "Voegt een visuele WYSIWYG rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). Werkt automatisch op pagina- en nieuwsberichten.",
+  "category": "Editor",
+  "icon": "pencil-square",
+  "requires_php": "8.0",
+  "hooks": ["admin_head", "admin_footer"]
+}
