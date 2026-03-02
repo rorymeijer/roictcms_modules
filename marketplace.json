@@ -1,7 +1,21 @@
 {
-  "version": "1.0.3",
-  "updated": "2026-02-27",
+  "version": "1.0.4",
+  "updated": "2026-03-02",
   "modules": [
+    {
+      "slug": "comments",
+      "name": "Reacties",
+      "description": "Laat bezoekers reacties plaatsen op pagina's en nieuwsberichten. Met moderatie, spambeveiliging en een inbox in het admin paneel.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "category": "Community",
+      "icon": "chat-dots",
+      "tags": ["comments", "reacties", "community", "bezoekers"],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/comments.zip"
+    },
     {
       "slug": "wysiwyg-editor",
       "name": "WYSIWYG Editor",
