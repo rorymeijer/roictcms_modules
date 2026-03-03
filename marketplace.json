@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "updated": "2026-03-03",
   "modules": [
     {
@@ -199,20 +199,7 @@
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/redirect-manager.zip"
     },
-    {
-      "slug": "maintenance-mode",
-      "name": "Maintenance Mode",
-      "description": "Zet de website tijdelijk in onderhoudsmodus met een aangepaste boodschap. Beheerders behouden toegang. IP-whitelist mogelijk.",
-      "version": "1.0.0",
-      "author": "ROICT",
-      "category": "Maintenance",
-      "icon": "tools",
-      "tags": ["maintenance", "onderhoud", "offline", "beheer"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/maintenance-mode.zip"
-    },
+  
     {
       "slug": "custom-fields",
       "name": "Custom Fields",
