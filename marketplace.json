@@ -1,92 +1,121 @@
 {
-  "version": "1.0.9",
-  "updated": "2026-03-03",
-  "modules": [
-    {
-      "slug": "comments",
-      "name": "Reacties",
-      "description": "Laat bezoekers reacties plaatsen op pagina's en nieuwsberichten. Met moderatie, spambeveiliging en een inbox in het admin paneel.",
-      "version": "1.0.1",
-      "author": "ROICT",
-      "category": "Community",
-      "icon": "chat-dots",
-      "tags": ["comments", "reacties", "community", "bezoekers"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/comments.zip"
-    },
-    {
-      "slug": "site-statistics",
-      "name": "Site statistieken",
-      "description": "Bekijk de statistieken zoals bezoekersaantallen van je website.",
-      "version": "1.0.0",
-      "author": "ROICT",
-      "category": "Statistics",
-      "icon": "world",
-      "tags": ["comments", "reacties", "community", "bezoekers"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/site-statistics.zip"
-    },
-
-    {
-      "slug": "wysiwyg-editor",
-      "name": "WYSIWYG Editor",
-      "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). De afbeeldingsknop opent de interne media manager in plaats van een upload-dialoog.",
-      "version": "1.1.3",
-      "author": "ROICT",
-      "category": "Editor",
-      "icon": "pencil-square",
-      "tags": ["editor", "wysiwyg", "rich-text", "content"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/wysiwyg-editor.zip"
-    },
-    {
-      "slug": "contact-form",
-      "name": "Contact Form",
-      "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
-      "version": "1.0.3",
-      "author": "ROICT",
-      "category": "Forms",
-      "icon": "envelope",
-      "tags": ["contact", "form", "email"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/contact-form.zip"
-    },
-    {
-      "slug": "two-factor-auth",
-      "name": "Two-Factor Authentication",
-      "description": "Beveilig beheeraccounts met twee-factor authenticatie (TOTP/RFC 6238). Werkt met Google Authenticator, Microsoft Authenticator en andere TOTP-apps.",
-      "version": "1.0.1",
-      "author": "ROICT",
-      "category": "Security",
-      "icon": "shield-lock",
-      "tags": ["security", "2fa", "totp", "authentication"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/two-factor-auth.zip"
-    },
-    {
-      "slug": "role-permission",
-      "name": "Role & Permission",
-      "description": "Uitgebreid rollen- en rechtenbeheer. Maak eigen rollen aan, wijs rechten toe en koppel gebruikers aan rollen om nauwkeurig te bepalen wie wat mag doen in het beheerpaneel.",
-      "version": "1.0.1",
-      "author": "ROICT",
-      "category": "Security",
-      "icon": "shield-check",
-      "tags": ["roles", "permissions", "access-control", "security", "users"],
-      "downloads": 0,
-      "rating": 5.0,
-      "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/role-permission.zip"
-    }
-  ],
-  "themes": []
+    "version": "1.0.9",
+    "updated": "2026-03-03",
+    "modules": [
+        {
+            "slug": "comments",
+            "name": "Reacties",
+            "description": "Laat bezoekers reacties plaatsen op pagina's en nieuwsberichten. Met moderatie, spambeveiliging en een inbox in het admin paneel.",
+            "version": "1.0.1",
+            "author": "ROICT",
+            "category": "Community",
+            "icon": "chat-dots",
+            "tags": [
+                "comments",
+                "reacties",
+                "community",
+                "bezoekers"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/comments.zip"
+        },
+        {
+            "slug": "site-statistics",
+            "name": "Site statistieken",
+            "description": "Bekijk de statistieken zoals bezoekersaantallen van je website.",
+            "version": "1.0.0",
+            "author": "ROICT",
+            "category": "Statistics",
+            "icon": "world",
+            "tags": [
+                "comments",
+                "reacties",
+                "community",
+                "bezoekers"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/site-statistics.zip"
+        },
+        {
+            "slug": "wysiwyg-editor",
+            "name": "WYSIWYG Editor",
+            "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). De afbeeldingsknop opent de interne media manager in plaats van een upload-dialoog.",
+            "version": "1.1.3",
+            "author": "ROICT",
+            "category": "Editor",
+            "icon": "pencil-square",
+            "tags": [
+                "editor",
+                "wysiwyg",
+                "rich-text",
+                "content"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/wysiwyg-editor.zip"
+        },
+        {
+            "slug": "contact-form",
+            "name": "Contact Form",
+            "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
+            "version": "1.0.3",
+            "author": "ROICT",
+            "category": "Forms",
+            "icon": "envelope",
+            "tags": [
+                "contact",
+                "form",
+                "email"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/contact-form.zip"
+        },
+        {
+            "slug": "two-factor-auth",
+            "name": "Two-Factor Authentication",
+            "description": "Beveilig beheeraccounts met twee-factor authenticatie (TOTP/RFC 6238). Werkt met Google Authenticator, Microsoft Authenticator en andere TOTP-apps.",
+            "version": "1.0.1",
+            "author": "ROICT",
+            "category": "Security",
+            "icon": "shield-lock",
+            "tags": [
+                "security",
+                "2fa",
+                "totp",
+                "authentication"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/two-factor-auth.zip"
+        },
+        {
+            "slug": "role-permission",
+            "name": "Role & Permission",
+            "description": "Uitgebreid rollen- en rechtenbeheer. Maak eigen rollen aan, wijs rechten toe en koppel gebruikers aan rollen om nauwkeurig te bepalen wie wat mag doen in het beheerpaneel.",
+            "version": "1.0.2",
+            "author": "ROICT",
+            "category": "Security",
+            "icon": "shield-check",
+            "tags": [
+                "roles",
+                "permissions",
+                "access-control",
+                "security",
+                "users"
+            ],
+            "downloads": 0,
+            "rating": 5.0,
+            "price": "free",
+            "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/role-permission.zip"
+        }
+    ],
+    "themes": []
 }
