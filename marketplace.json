@@ -17,6 +17,21 @@
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/comments.zip"
     },
     {
+      "slug": "site-statistics",
+      "name": "Site statistieken",
+      "description": "Bekijk de statistieken zoals bezoekersaantallen van je website.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "category": "Statistics",
+      "icon": "world",
+      "tags": ["comments", "reacties", "community", "bezoekers"],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/site-statistics.zip"
+    },
+
+    {
       "slug": "wysiwyg-editor",
       "name": "WYSIWYG Editor",
       "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). De afbeeldingsknop opent de interne media manager in plaats van een upload-dialoog.",
