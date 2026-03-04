@@ -119,7 +119,7 @@
       "slug": "newsletter",
       "name": "Newsletter",
       "description": "Beheer nieuwsbriefabonnementen. Bezoekers kunnen zich inschrijven, abonnees worden opgeslagen en vanuit het admin paneel kunt u e-mails versturen.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "ROICT",
       "category": "Communication",
       "icon": "mailbox",
