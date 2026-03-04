@@ -1,0 +1,12 @@
+{
+  "slug": "contact-form",
+  "name": "Contact Form",
+  "version": "1.0.3",
+  "author": "ROICT",
+  "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en een inbox in het admin paneel.",
+  "category": "Forms",
+  "icon": "envelope",
+  "requires_php": "8.0",
+  "admin_page": "admin/index.php",
+  "hooks": ["theme_head", "theme_footer"]
+}
