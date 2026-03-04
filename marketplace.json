@@ -175,7 +175,7 @@
       "slug": "faq",
       "name": "FAQ",
       "description": "Maak en beheer veelgestelde vragen met categorieën. Toon een Bootstrap accordion-widget op de frontend via een PHP-helper.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": "ROICT",
       "category": "Content",
       "icon": "question-circle",
