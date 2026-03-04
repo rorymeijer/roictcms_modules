@@ -1,9 +1,0 @@
-.faq-widget .accordion-button:not(.collapsed) {
-    color: var(--bs-primary, #0d6efd);
-    background-color: var(--bs-primary-bg-subtle, #cfe2ff);
-}
-.faq-widget .accordion-item {
-    border-left: 3px solid var(--bs-primary, #0d6efd);
-    margin-bottom: .5rem;
-    border-radius: 4px;
-}
