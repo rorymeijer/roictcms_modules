@@ -213,6 +213,20 @@
       "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/custom-fields.zip"
+    },
+    {
+      "slug": "frontend-login",
+      "name": "Frontend Login",
+      "description": "Laat bezoekers inloggen op de frontend. Bescherm pagina's en nieuwsberichten zodat alleen ingelogde leden ze kunnen bekijken. Inclusief registratie, gebruikersbeheer en eenvoudig paginabeheer.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "category": "Security",
+      "icon": "person-lock",
+      "tags": ["login", "leden", "beveiliging", "afschermen", "registratie", "frontend"],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/frontend-login.zip"
     }
   ],
   "themes": []
