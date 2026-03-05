@@ -1,0 +1,69 @@
+/* Two-Factor Authentication module styles */
+
+/* Verificatiepagina */
+.tfa-verify-card {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.4);
+    width: 100%;
+    max-width: 420px;
+    overflow: hidden;
+}
+
+.tfa-code-input {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.5rem;
+    text-align: center;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 0.75rem;
+    width: 100%;
+    background: #f8fafc;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.tfa-code-input:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    background: white;
+}
+
+/* QR-code container */
+.tfa-qr-container {
+    background: white;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 1rem;
+    display: inline-block;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Geheime sleutel weergave */
+.tfa-secret-key {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    letter-spacing: 0.15rem;
+    word-break: break-all;
+    color: #0f172a;
+    background: #f1f5f9;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+/* Status badge */
+.tfa-status-active {
+    background: #f0fdf4;
+    border: 1.5px solid #bbf7d0;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.tfa-status-inactive {
+    background: #fef9c3;
+    border: 1.5px solid #fde68a;
+    border-radius: 10px;
+    padding: 1rem;
+}

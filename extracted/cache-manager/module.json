@@ -1,0 +1,10 @@
+{
+    "slug": "cache-manager",
+    "name": "Cache Manager",
+    "description": "Cach de frontend uitvoer van pagina's voor snellere laadtijden. Beheer en leeg de cache via het admin paneel.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "lightning",
+    "category": "Beheer",
+    "requires": []
+}

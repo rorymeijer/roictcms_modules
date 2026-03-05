@@ -1,0 +1,9 @@
+{
+    "slug": "social-feed",
+    "name": "Social Feed",
+    "description": "Toon een handmatig beheerde social media feed. Voeg berichten toe als social posts. Toon via shortcode [social_feed].",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "rss",
+    "category": "Social"
+}

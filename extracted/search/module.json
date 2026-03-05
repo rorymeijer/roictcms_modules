@@ -1,0 +1,10 @@
+{
+    "slug": "search",
+    "name": "Zoekmodule",
+    "description": "Voegt een zoekfunctie toe aan de frontend. Zoekt door pagina's en nieuwsberichten. Toon via shortcode [search_form] en [search_results].",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "search",
+    "category": "Content",
+    "requires": []
+}

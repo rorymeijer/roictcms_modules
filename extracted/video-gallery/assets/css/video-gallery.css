@@ -1,0 +1,44 @@
+/* Video Gallery Module - ROICT CMS */
+
+.roict-video-gallery {
+    width: 100%;
+}
+
+.roict-video-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.roict-video-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12) !important;
+}
+
+.roict-video-card .ratio iframe {
+    border: none;
+}
+
+.roict-video-card .card-body {
+    padding: 1rem;
+}
+
+.roict-video-card .card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+}
+
+.roict-video-card .card-text {
+    font-size: 0.875rem;
+    margin-bottom: 0;
+}
+
+@media (max-width: 576px) {
+    .roict-video-gallery .col-12 {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+}

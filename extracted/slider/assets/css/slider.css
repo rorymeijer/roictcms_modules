@@ -1,0 +1,57 @@
+/* Slider Module - ROICT CMS */
+
+.roict-slider {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+
+.roict-slider .carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.roict-slider .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+    padding: 1rem 1.5rem;
+    bottom: 2rem;
+}
+
+.roict-slider .carousel-caption h5 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.roict-slider .carousel-caption p {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.roict-slider .carousel-indicators button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: none;
+    opacity: 0.5;
+}
+
+.roict-slider .carousel-indicators button.active {
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    .roict-slider .carousel-item img {
+        max-height: 250px;
+    }
+
+    .roict-slider .carousel-caption h5 {
+        font-size: 1rem;
+    }
+
+    .roict-slider .carousel-caption p {
+        font-size: 0.85rem;
+    }
+}

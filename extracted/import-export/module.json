@@ -1,0 +1,10 @@
+{
+    "slug": "import-export",
+    "name": "Import / Export",
+    "description": "Exporteer pagina's, nieuws en gebruikers als CSV. Importeer content via CSV-bestand.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "arrow-down-up",
+    "category": "Beheer",
+    "requires": []
+}

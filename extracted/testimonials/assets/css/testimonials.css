@@ -1,0 +1,41 @@
+/* Testimonials Module - ROICT CMS */
+
+.roict-testimonials {
+    width: 100%;
+}
+
+.roict-testimonial-card {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.75rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.roict-testimonial-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1) !important;
+}
+
+.roict-testimonial-card .card-body {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.roict-testimonial-card blockquote p {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: #555;
+}
+
+.roict-testimonial-card .bi-star-fill,
+.roict-testimonial-card .bi-star {
+    font-size: 0.9rem;
+}
+
+.roict-testimonial-card strong {
+    font-size: 0.95rem;
+}
+
+.roict-testimonial-card small {
+    font-size: 0.8rem;
+}

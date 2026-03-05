@@ -1,0 +1,14 @@
+{
+  "slug": "seo-tools",
+  "name": "SEO Tools",
+  "version": "1.0.0",
+  "author": "ROICT",
+  "description": "Beheer SEO-metatags per pagina, genereer automatisch een sitemap.xml en pas robots.txt aan vanuit het beheerpaneel.",
+  "category": "SEO",
+  "icon": "search",
+  "tags": ["seo", "meta", "sitemap", "google"],
+  "admin_pages": [
+    {"label": "SEO Tools", "slug": "seo-tools", "file": "admin/index.php"}
+  ],
+  "requires_db": true
+}

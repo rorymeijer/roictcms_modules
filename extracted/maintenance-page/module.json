@@ -1,0 +1,10 @@
+{
+    "slug": "maintenance-page",
+    "name": "Onderhoudspagina",
+    "description": "Toon een stijlbare \"komt eraan\" of onderhoudspagina aan bezoekers. Beheerders zien de echte site. Volledig instelbaar.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "tools",
+    "category": "Beheer",
+    "requires": []
+}

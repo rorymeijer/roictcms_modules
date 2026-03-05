@@ -1,0 +1,9 @@
+{
+    "slug": "events",
+    "name": "Evenementen",
+    "description": "Maak en beheer evenementen met datum, tijd, locatie en beschrijving. Toon via shortcode [events] op de frontend.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "calendar-event",
+    "category": "Content"
+}

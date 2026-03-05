@@ -1,0 +1,9 @@
+{
+    "slug": "vacancies",
+    "name": "Vacatures",
+    "description": "Beheer vacatures met functieprofiel, eisen en sollicitatieformulier. Toon via shortcode [vacancies] op de frontend.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "briefcase",
+    "category": "Content"
+}

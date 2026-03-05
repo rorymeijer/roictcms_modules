@@ -1,0 +1,9 @@
+{
+    "slug": "google-maps",
+    "name": "Google Maps",
+    "description": "Voeg Google Maps kaarten in via shortcode. Configureer meerdere locaties met markers en pas de weergave in.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "geo-alt",
+    "category": "Integratie"
+}

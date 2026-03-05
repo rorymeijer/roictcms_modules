@@ -1,0 +1,14 @@
+{
+  "slug": "image-gallery",
+  "name": "Image Gallery",
+  "version": "1.0.1",
+  "author": "ROICT",
+  "description": "Maak fotogalerijen en albums aan. Upload afbeeldingen, voeg bijschriften toe en toon ze op de frontend met een ingebouwde lightbox.",
+  "category": "Media",
+  "icon": "images",
+  "tags": ["gallery", "afbeeldingen", "album", "media", "lightbox"],
+  "admin_pages": [
+    {"label": "Galerijen", "slug": "image-gallery", "file": "admin/index.php"}
+  ],
+  "requires_db": true
+}

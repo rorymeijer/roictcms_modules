@@ -1,0 +1,9 @@
+{
+    "slug": "rss-importer",
+    "name": "RSS Importer",
+    "description": "Importeer externe RSS-feeds en toon als nieuwsoverzicht op de frontend. Toon via shortcode [rss_feed id=\"1\"].",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "rss-fill",
+    "category": "Integratie"
+}

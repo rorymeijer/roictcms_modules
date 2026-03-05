@@ -1,0 +1,9 @@
+{
+    "slug": "reservations",
+    "name": "Reserveringen",
+    "description": "Eenvoudig boekingssysteem met tijdslots. Bezoekers kunnen reserveren, beheerders zien overzicht. Toon via shortcode [reservation_form].",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "calendar-check",
+    "category": "Content"
+}

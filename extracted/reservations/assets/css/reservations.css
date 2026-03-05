@@ -1,0 +1,40 @@
+.reservation-widget {
+    max-width: 640px;
+    margin: 1rem 0;
+}
+
+.reservation-form {
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+}
+
+.reservation-slots-list {
+    max-height: 280px;
+    overflow-y: auto;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+    background: #fff;
+}
+
+.reservation-slot-item {
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    transition: background-color 0.15s ease;
+}
+
+.reservation-slot-item:hover {
+    background-color: #e9ecef;
+}
+
+.reservation-slot-item .form-check-label {
+    cursor: pointer;
+    width: 100%;
+}
+
+.reservations-empty {
+    color: #6c757d;
+    font-style: italic;
+}

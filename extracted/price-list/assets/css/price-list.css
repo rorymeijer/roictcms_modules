@@ -1,0 +1,61 @@
+.price-list {
+    margin: 1rem 0;
+}
+
+.price-category {
+    margin-bottom: 2.5rem;
+}
+
+.price-category-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #212529;
+    border-bottom: 2px solid #0d6efd;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.price-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.price-table tbody tr {
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.15s ease;
+}
+
+.price-table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.price-table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.price-item-name {
+    padding: 0.75rem 0;
+    width: 65%;
+}
+
+.price-item-name strong {
+    font-size: 0.95rem;
+    color: #212529;
+}
+
+.price-item-price {
+    padding: 0.75rem 0;
+    text-align: right;
+    vertical-align: top;
+}
+
+.price-amount {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #0d6efd;
+}
+
+.price-list-empty {
+    font-style: italic;
+    color: #6c757d;
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "redirect-manager",
+  "name": "Redirect Manager",
+  "version": "1.0.1",
+  "author": "ROICT",
+  "description": "Beheer 301- en 302-omleidingen. Voeg redirects toe, zet ze aan/uit en bekijk het aantal hits.",
+  "category": "SEO",
+  "icon": "arrow-left-right",
+  "tags": ["redirect", "301", "302", "seo", "url"],
+  "admin_pages": [
+    {"label": "Redirect Manager", "slug": "redirect-manager", "file": "admin/index.php"}
+  ],
+  "requires_db": true
+}

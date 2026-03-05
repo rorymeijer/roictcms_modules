@@ -1,0 +1,157 @@
+/**
+ * Frontend Login Module — Stylesheet
+ * Compatibel met alle ROICT CMS thema's.
+ */
+
+/* ── Wrapper ──────────────────────────────────────────────────────────────── */
+.fl-wrap {
+    max-width: 440px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ── Alerts ───────────────────────────────────────────────────────────────── */
+.fl-alert {
+    display: flex;
+    align-items: flex-start;
+    gap: .6rem;
+    padding: .85rem 1rem;
+    border-radius: 10px;
+    font-size: .875rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+}
+.fl-alert i { flex-shrink: 0; margin-top: .1rem; }
+.fl-alert-error   { background: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
+.fl-alert-success { background: #f0fdf4; color: #15803d; border: 1px solid #bbf7d0; }
+.fl-alert-info    { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+
+/* ── Tabs ─────────────────────────────────────────────────────────────────── */
+.fl-tabs {
+    display: flex;
+    gap: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1.5px solid #e2e8f0;
+    margin-bottom: 1.5rem;
+    background: #f8fafc;
+}
+.fl-tab {
+    flex: 1;
+    padding: .65rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: .875rem;
+    font-weight: 600;
+    color: #64748b;
+    transition: background .2s, color .2s;
+}
+.fl-tab:hover  { background: #f1f5f9; color: #334155; text-decoration: none; }
+.fl-tab.active { background: #2563eb; color: #fff; }
+
+/* ── Formulier ────────────────────────────────────────────────────────────── */
+.fl-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.fl-field {
+    display: flex;
+    flex-direction: column;
+    gap: .35rem;
+}
+.fl-field label {
+    font-size: .82rem;
+    font-weight: 600;
+    color: #374151;
+}
+.fl-req { color: #ef4444; }
+
+.fl-field input {
+    width: 100%;
+    padding: .65rem .9rem;
+    border: 1.5px solid #d1d5db;
+    border-radius: 9px;
+    font-size: .9rem;
+    color: #111827;
+    background: #fff;
+    outline: none;
+    transition: border-color .2s, box-shadow .2s;
+    box-sizing: border-box;
+}
+.fl-field input:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37,99,235,.12);
+}
+
+/* Wachtwoord met zichtbaarheidsknop */
+.fl-pw-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.fl-pw-wrap input { padding-right: 2.8rem; }
+.fl-pw-toggle {
+    position: absolute;
+    right: .6rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #9ca3af;
+    padding: .25rem;
+    font-size: 1rem;
+    line-height: 1;
+    transition: color .2s;
+}
+.fl-pw-toggle:hover { color: #374151; }
+
+/* ── Knoppen ──────────────────────────────────────────────────────────────── */
+.fl-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: .45rem;
+    padding: .7rem 1.4rem;
+    border-radius: 9px;
+    border: none;
+    font-size: .9rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: opacity .2s, transform .1s;
+}
+.fl-btn:active { transform: scale(.98); }
+.fl-btn-primary {
+    background: #2563eb;
+    color: #fff;
+    width: 100%;
+}
+.fl-btn-primary:hover { opacity: .9; }
+.fl-btn-secondary {
+    background: #f1f5f9;
+    color: #374151;
+    border: 1.5px solid #e2e8f0;
+}
+.fl-btn-secondary:hover { background: #e2e8f0; }
+
+/* ── Ingelogd-blok ────────────────────────────────────────────────────────── */
+.fl-logged-in {
+    text-align: center;
+    padding: 2rem 1.5rem;
+    background: #f8fafc;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 14px;
+}
+.fl-avatar {
+    font-size: 3.5rem;
+    color: #2563eb;
+    margin-bottom: .75rem;
+    line-height: 1;
+}
+.fl-welcome {
+    font-size: 1rem;
+    color: #374151;
+    margin-bottom: 1.25rem;
+}
+.fl-logout-form { display: flex; justify-content: center; }

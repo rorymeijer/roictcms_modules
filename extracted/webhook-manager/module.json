@@ -1,0 +1,9 @@
+{
+    "slug": "webhook-manager",
+    "name": "Webhook Manager",
+    "description": "Configureer uitgaande webhooks die worden getriggerd bij CMS-events zoals nieuw bericht of nieuwe gebruiker.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "broadcast",
+    "category": "Developer"
+}

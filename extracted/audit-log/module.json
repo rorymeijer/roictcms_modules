@@ -1,0 +1,10 @@
+{
+    "slug": "audit-log",
+    "name": "Auditlog",
+    "description": "Registreer automatisch alle beheersacties: wie, wat en wanneer. Raadpleeg het activiteitenlogboek in het admin paneel.",
+    "version": "0.0.2",
+    "author": "ROICT",
+    "icon": "clock-history",
+    "category": "Beheer",
+    "requires": []
+}
