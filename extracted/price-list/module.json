@@ -1,9 +1,0 @@
-{
-    "slug": "price-list",
-    "name": "Prijslijst",
-    "description": "Maak en beheer prijslijsten en tarieven per categorie. Toon via shortcode [price_list] of [price_list category=\"diensten\"].",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "tag",
-    "category": "Content"
-}

@@ -1,9 +1,0 @@
-{
-    "slug": "popup-manager",
-    "name": "Popup Manager",
-    "description": "Maak en beheer popups die worden getoond op basis van tijd of exit-intent. Ideaal voor aanbiedingen en nieuwsbrief.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "window-stack",
-    "category": "Marketing"
-}

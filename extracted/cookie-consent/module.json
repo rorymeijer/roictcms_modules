@@ -1,9 +1,0 @@
-{
-    "slug": "cookie-consent",
-    "name": "Cookie Consent",
-    "description": "AVG/GDPR-compliant cookiebanner met instelbare categorieën en opslag van gebruikersvoorkeur in een cookie.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "shield-check",
-    "category": "Privacy"
-}

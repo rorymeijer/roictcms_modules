@@ -1,9 +1,0 @@
-{
-    "slug": "portfolio",
-    "name": "Portfolio",
-    "description": "Toon projecten en cases met filterfunctie op categorie. Toon via shortcode [portfolio] op de frontend.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "grid",
-    "category": "Content"
-}

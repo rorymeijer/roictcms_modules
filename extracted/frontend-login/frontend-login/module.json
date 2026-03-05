@@ -1,9 +1,0 @@
-{
-  "name": "Frontend Login",
-  "version": "1.0.0",
-  "author": "ROICT",
-  "description": "Laat bezoekers inloggen op de frontend. Bescherm pagina's en nieuwsberichten zodat alleen ingelogde leden ze kunnen bekijken. Inclusief registratie, gebruikersbeheer en eenvoudig paginabeheer.",
-  "category": "Security",
-  "icon": "person-lock",
-  "requires_php": "8.1"
-}

@@ -1,9 +1,0 @@
-{
-    "slug": "team",
-    "name": "Team",
-    "description": "Beheer teamleden met naam, functietitel, bio en foto. Toon via shortcode [team] op de frontend.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "people",
-    "category": "Content"
-}

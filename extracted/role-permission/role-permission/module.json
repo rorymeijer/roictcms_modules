@@ -1,8 +1,0 @@
-{
-  "name": "Role & Permission",
-  "version": "1.0.2",
-  "author": "ROICT",
-  "description": "Uitgebreid rollen- en rechtenbeheer. Maak eigen rollen aan, wijs rechten toe en koppel gebruikers aan rollen om nauwkeurig te bepalen wie wat mag doen in het beheerpaneel.",
-  "category": "Security",
-  "icon": "shield-check"
-}

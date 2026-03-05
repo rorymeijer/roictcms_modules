@@ -1,9 +1,0 @@
-{
-    "slug": "testimonials",
-    "name": "Testimonials",
-    "description": "Beheer klantervaringen en recensies. Toon via shortcode [testimonials] op de frontend.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "chat-quote",
-    "category": "Content"
-}

@@ -1,9 +1,0 @@
-{
-    "slug": "file-library",
-    "name": "Bestandsbibliotheek",
-    "description": "Upload en beheer bestanden (PDF, documenten). Bezoekers kunnen bestanden downloaden. Toon via shortcode [file_library].",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "file-earmark-arrow-down",
-    "category": "Content"
-}

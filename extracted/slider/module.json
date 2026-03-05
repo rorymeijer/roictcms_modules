@@ -1,9 +1,0 @@
-{
-    "slug": "slider",
-    "name": "Slider / Carousel",
-    "description": "Maak en beheer een afbeeldingenslider met tekst, knoppen en links. Toon via shortcode [slider] op de frontend.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "images",
-    "category": "Content"
-}

@@ -1,9 +1,0 @@
-{
-    "slug": "video-gallery",
-    "name": "Video Gallery",
-    "description": "Beheer YouTube en Vimeo video's in galerijen. Toon via shortcode [video_gallery] op de frontend.",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "play-btn",
-    "category": "Media"
-}

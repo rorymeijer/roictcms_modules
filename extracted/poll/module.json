@@ -1,9 +1,0 @@
-{
-    "slug": "poll",
-    "name": "Enquête / Poll",
-    "description": "Maak polls en enkelvoudige enquêtes. Bezoekers stemmen en zien direct de resultaten. Toon via shortcode [poll id=\"1\"].",
-    "version": "0.0.2",
-    "author": "ROICT",
-    "icon": "bar-chart",
-    "category": "Community"
-}
