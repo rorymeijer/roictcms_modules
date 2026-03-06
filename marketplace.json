@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "updated": "2026-03-05",
+  "version": "1.3.0",
+  "updated": "2026-03-06",
   "modules": [
     {
       "slug": "comments",
@@ -8,6 +8,7 @@
       "description": "Laat bezoekers reacties plaatsen op pagina's en nieuwsberichten. Met moderatie, spambeveiliging en een inbox in het admin paneel.",
       "version": "1.0.3",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Community",
       "icon": "chat-dots",
       "tags": [
@@ -16,8 +17,6 @@
         "community",
         "bezoekers"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/comments.zip"
     },
@@ -27,6 +26,7 @@
       "description": "Bekijk de statistieken zoals bezoekersaantallen van je website.",
       "version": "1.0.2",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Statistics",
       "icon": "world",
       "tags": [
@@ -34,8 +34,6 @@
         "bezoekers",
         "analytics"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/site-statistics.zip"
     },
@@ -45,6 +43,7 @@
       "description": "Voegt een visuele rich-text editor toe aan alle content-tekstvakken in het admin paneel. Gebaseerd op Quill.js (open source, MIT). De afbeeldingsknop opent de interne media manager in plaats van een upload-dialoog.",
       "version": "1.1.4",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Editor",
       "icon": "pencil-square",
       "tags": [
@@ -53,8 +52,6 @@
         "rich-text",
         "content"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/wysiwyg-editor.zip"
     },
@@ -64,6 +61,7 @@
       "description": "Volledig contactformulier met spambeveiliging, e-mailnotificaties en inbox in het admin paneel.",
       "version": "1.0.4",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Forms",
       "icon": "envelope",
       "tags": [
@@ -71,8 +69,6 @@
         "form",
         "email"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/contact-form.zip"
     },
@@ -82,6 +78,7 @@
       "description": "Beveilig beheeraccounts met twee-factor authenticatie (TOTP/RFC 6238). Werkt met Google Authenticator, Microsoft Authenticator en andere TOTP-apps.",
       "version": "1.0.2",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Security",
       "icon": "shield-lock",
       "tags": [
@@ -90,8 +87,6 @@
         "totp",
         "authentication"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/two-factor-auth.zip"
     },
@@ -101,6 +96,7 @@
       "description": "Uitgebreid rollen- en rechtenbeheer. Maak eigen rollen aan, wijs rechten toe en koppel gebruikers aan rollen om nauwkeurig te bepalen wie wat mag doen in het beheerpaneel.",
       "version": "1.0.3",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Security",
       "icon": "shield-check",
       "tags": [
@@ -110,8 +106,6 @@
         "security",
         "users"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/role-permission.zip"
     },
@@ -121,6 +115,7 @@
       "description": "Beheer SEO-metatags per pagina, genereer automatisch een sitemap.xml en pas robots.txt aan vanuit het beheerpaneel.",
       "version": "1.0.1",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "SEO",
       "icon": "search",
       "tags": [
@@ -129,8 +124,6 @@
         "sitemap",
         "google"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/seo-tools.zip"
     },
@@ -140,6 +133,7 @@
       "description": "Maak fotogalerijen en albums aan. Upload afbeeldingen, voeg bijschriften toe en toon ze op de frontend met een ingebouwde lightbox.",
       "version": "1.0.2",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Media",
       "icon": "images",
       "tags": [
@@ -149,8 +143,6 @@
         "media",
         "lightbox"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/image-gallery.zip"
     },
@@ -160,6 +152,7 @@
       "description": "Beheer nieuwsbriefabonnementen. Bezoekers kunnen zich inschrijven, abonnees worden opgeslagen en vanuit het admin paneel kunt u e-mails versturen.",
       "version": "1.0.8",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Communication",
       "icon": "mailbox",
       "tags": [
@@ -168,8 +161,6 @@
         "abonnees",
         "mailing"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/newsletter.zip"
     },
@@ -179,6 +170,7 @@
       "description": "Maak databaseback-ups (SQL-dumps), download ze en verwijder verouderde back-ups automatisch. Configuurbaar maximum.",
       "version": "1.0.2",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Maintenance",
       "icon": "database-down",
       "tags": [
@@ -187,8 +179,6 @@
         "restore",
         "onderhoud"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/backup-manager.zip"
     },
@@ -198,6 +188,7 @@
       "description": "Maak en beheer veelgestelde vragen met categorieën. Toon een Bootstrap accordion-widget op de frontend via een PHP-helper.",
       "version": "1.1.3",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "question-circle",
       "tags": [
@@ -206,8 +197,6 @@
         "accordion",
         "content"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/faq.zip"
     },
@@ -217,6 +206,7 @@
       "description": "Beheer 301- en 302-omleidingen. Voeg redirects toe, zet ze aan of uit en bekijk het aantal hits per redirect.",
       "version": "1.0.2",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "SEO",
       "icon": "arrow-left-right",
       "tags": [
@@ -226,8 +216,6 @@
         "seo",
         "url"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/redirect-manager.zip"
     },
@@ -237,6 +225,7 @@
       "description": "Laat bezoekers inloggen op de frontend. Bescherm pagina's en nieuwsberichten zodat alleen ingelogde leden ze kunnen bekijken. Inclusief registratie, gebruikersbeheer en eenvoudig paginabeheer.",
       "version": "1.0.1",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Security",
       "icon": "person-lock",
       "tags": [
@@ -247,8 +236,6 @@
         "registratie",
         "frontend"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/frontend-login.zip"
     },
@@ -257,7 +244,9 @@
       "name": "Slider / Carousel",
       "description": "Maak en beheer een afbeeldingenslider met tekst, knoppen en links. Toon via shortcode [slider] of PHP-helper op de frontend.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "images",
       "tags": [
@@ -266,8 +255,6 @@
         "afbeeldingen",
         "hero"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/slider.zip"
     },
@@ -276,7 +263,9 @@
       "name": "Video Gallery",
       "description": "Beheer YouTube en Vimeo video's in galerijen. Detecteert automatisch het platform en maakt embed-links. Toon via shortcode [video_gallery].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Media",
       "icon": "play-btn",
       "tags": [
@@ -286,8 +275,6 @@
         "gallery",
         "media"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/video-gallery.zip"
     },
@@ -296,7 +283,9 @@
       "name": "Bestandsbibliotheek",
       "description": "Upload en beheer bestanden (PDF, documenten). Bezoekers kunnen bestanden downloaden. Downloadteller ingebouwd. Toon via shortcode [file_library].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "file-earmark-arrow-down",
       "tags": [
@@ -305,8 +294,6 @@
         "download",
         "documenten"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/file-library.zip"
     },
@@ -315,7 +302,9 @@
       "name": "Testimonials",
       "description": "Beheer klantervaringen en recensies met sterrenwaardering. Toon via shortcode [testimonials] als kaartenoverzicht op de frontend.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "chat-quote",
       "tags": [
@@ -324,8 +313,6 @@
         "klanten",
         "reviews"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/testimonials.zip"
     },
@@ -334,7 +321,9 @@
       "name": "Portfolio",
       "description": "Toon projecten en cases met filterfunctie op categorie. Beheer categorieën en items in het admin paneel. Toon via shortcode [portfolio].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "grid",
       "tags": [
@@ -343,8 +332,6 @@
         "cases",
         "werk"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/portfolio.zip"
     },
@@ -353,7 +340,9 @@
       "name": "Team",
       "description": "Beheer teamleden met naam, functietitel, bio en foto. Toon via shortcode [team] als responsief kaartenoverzicht op de frontend.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "people",
       "tags": [
@@ -362,8 +351,6 @@
         "over-ons",
         "personeel"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/team.zip"
     },
@@ -372,7 +359,9 @@
       "name": "Evenementen",
       "description": "Maak en beheer evenementen met datum, tijd, locatie en beschrijving. Toont automatisch toekomstige evenementen. Toon via shortcode [events].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "calendar-event",
       "tags": [
@@ -381,8 +370,6 @@
         "calendar",
         "events"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/events.zip"
     },
@@ -391,7 +378,9 @@
       "name": "Vacatures",
       "description": "Beheer vacatures met functieprofiel en eisen. Bezoekers kunnen direct solliciteren via een ingebouwd formulier. Toon via shortcode [vacancies].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "briefcase",
       "tags": [
@@ -400,8 +389,6 @@
         "werk",
         "hr"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/vacancies.zip"
     },
@@ -410,7 +397,9 @@
       "name": "Reserveringen",
       "description": "Eenvoudig boekingssysteem met tijdslots. Bezoekers reserveren een beschikbaar slot, beheerders zien en beheren alle reserveringen. Toon via shortcode [reservation_form].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "calendar-check",
       "tags": [
@@ -419,8 +408,6 @@
         "tijdslots",
         "afspraken"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/reservations.zip"
     },
@@ -429,7 +416,9 @@
       "name": "Cookie Consent",
       "description": "AVG/GDPR-compliant cookiebanner met instelbare teksten en opslag van gebruikersvoorkeur. 'Alles accepteren' of 'Alleen noodzakelijk'.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Privacy",
       "icon": "shield-check",
       "tags": [
@@ -439,8 +428,6 @@
         "privacy",
         "consent"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cookie-consent.zip"
     },
@@ -449,7 +436,9 @@
       "name": "Enquête / Poll",
       "description": "Maak polls en enkelvoudige enquêtes. Bezoekers stemmen eenmalig (IP-gebaseerd) en zien direct de resultaten als staafdiagram. Toon via shortcode [poll id=\"1\"].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Community",
       "icon": "bar-chart",
       "tags": [
@@ -458,8 +447,6 @@
         "stemmen",
         "community"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/poll.zip"
     },
@@ -468,7 +455,9 @@
       "name": "Prijslijst",
       "description": "Maak en beheer prijslijsten en tarieven per categorie. Toon via shortcode [price_list] of gefilterd per categorie [price_list category=\"diensten\"].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "tag",
       "tags": [
@@ -477,8 +466,6 @@
         "diensten",
         "prijs"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/price-list.zip"
     },
@@ -487,7 +474,9 @@
       "name": "Google Maps",
       "description": "Voeg Google Maps kaarten in op je pagina's via shortcode [google_map id=\"1\"]. Configureer meerdere locaties met adres en zoomniveau.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Integratie",
       "icon": "geo-alt",
       "tags": [
@@ -496,8 +485,6 @@
         "locatie",
         "maps"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/google-maps.zip"
     },
@@ -506,7 +493,9 @@
       "name": "Social Feed",
       "description": "Beheer en toon een social media feed met handmatig toegevoegde posts van Instagram, X, Facebook en LinkedIn. Toon via shortcode [social_feed].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Social",
       "icon": "rss",
       "tags": [
@@ -516,8 +505,6 @@
         "twitter",
         "facebook"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/social-feed.zip"
     },
@@ -526,7 +513,9 @@
       "name": "RSS Importer",
       "description": "Importeer externe RSS-feeds en toon als nieuwsoverzicht op de frontend. Ingebouwde cache voor snelle laadtijden. Toon via shortcode [rss_feed id=\"1\"].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Integratie",
       "icon": "rss-fill",
       "tags": [
@@ -536,8 +525,6 @@
         "import",
         "extern"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rss-importer.zip"
     },
@@ -546,7 +533,9 @@
       "name": "Webhook Manager",
       "description": "Configureer uitgaande webhooks voor CMS-events (nieuw bericht, nieuwe gebruiker etc.). Met HMAC-SHA256 beveiliging en activiteitenlog.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Developer",
       "icon": "broadcast",
       "tags": [
@@ -556,8 +545,6 @@
         "developer",
         "events"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/webhook-manager.zip"
     },
@@ -566,7 +553,9 @@
       "name": "Popup Manager",
       "description": "Maak en beheer popups op basis van tijd of exit-intent. Ideaal voor aanbiedingen en nieuwsbriefinschrijvingen. Cookie-gebaseerde herhaalcontrole.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Marketing",
       "icon": "window-stack",
       "tags": [
@@ -575,8 +564,6 @@
         "conversie",
         "aanbiedingen"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/popup-manager.zip"
     },
@@ -585,7 +572,9 @@
       "name": "Auditlog",
       "description": "Registreer automatisch alle beheersacties: wie, wat en wanneer. Raadpleeg het activiteitenlogboek in het admin paneel met filtering en automatisch opschonen.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Beheer",
       "icon": "clock-history",
       "tags": [
@@ -595,8 +584,6 @@
         "beheer",
         "geschiedenis"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/audit-log.zip"
     },
@@ -605,7 +592,9 @@
       "name": "Zoekmodule",
       "description": "Voegt zoekfunctionaliteit toe aan de frontend. Zoekt door pagina's en nieuwsberichten. Toon het zoekformulier via shortcode [search_form] en resultaten via [search_results].",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "search",
       "tags": [
@@ -614,8 +603,6 @@
         "content",
         "frontend"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/search.zip"
     },
@@ -624,7 +611,9 @@
       "name": "Meertaligheid",
       "description": "Voeg meerdere talen toe aan je website. Beheer vertalingen van pagina's en nieuwsberichten per taal met een instelbare taalwisselaar.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Content",
       "icon": "translate",
       "tags": [
@@ -634,8 +623,6 @@
         "i18n",
         "internationaal"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/multilingual.zip"
     },
@@ -644,7 +631,9 @@
       "name": "Import / Export",
       "description": "Exporteer pagina's, nieuws en gebruikers als CSV-bestand. Importeer content via CSV. Bestaande slugs worden automatisch overgeslagen.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Beheer",
       "icon": "arrow-down-up",
       "tags": [
@@ -654,8 +643,6 @@
         "migratie",
         "data"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/import-export.zip"
     },
@@ -664,7 +651,9 @@
       "name": "Cache Manager",
       "description": "Cach de frontend uitvoer van pagina's voor snellere laadtijden. Configureerbare TTL en uitgesloten URL's. Leeg de cache met één klik.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Beheer",
       "icon": "lightning",
       "tags": [
@@ -673,8 +662,6 @@
         "snelheid",
         "optimalisatie"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cache-manager.zip"
     },
@@ -683,7 +670,9 @@
       "name": "REST API",
       "description": "Publieke JSON REST API endpoints voor pagina's en nieuws. Beveiligd met API keys. Inclusief API-documentatie en key-beheer in het admin paneel.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Developer",
       "icon": "code-slash",
       "tags": [
@@ -693,8 +682,6 @@
         "developer",
         "integratie"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rest-api.zip"
     },
@@ -703,7 +690,9 @@
       "name": "Onderhoudspagina",
       "description": "Toon een volledig instelbare onderhoudspagina aan bezoekers. Beheerders zien de echte site. Configureerbare kleuren, titel en tekst.",
       "version": "0.0.3",
+      "status": "alpha",
       "author": "ROICT",
+      "author_url": "https://roict.nl",
       "category": "Beheer",
       "icon": "tools",
       "tags": [
@@ -712,8 +701,6 @@
         "coming-soon",
         "beheer"
       ],
-      "downloads": 0,
-      "rating": 5.0,
       "price": "free",
       "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/maintenance-page.zip"
     }
