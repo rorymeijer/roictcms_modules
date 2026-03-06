@@ -3,6 +3,29 @@
   "updated": "2026-03-06",
   "modules": [
     {
+      "slug": "customer-portal",
+      "name": "Klantenpaneel",
+      "description": "Volledig klantenbeheer met offertes, facturen en een beveiligd frontend klantenpaneel. Klanten kunnen inloggen via de Frontend Login module en hun eigen documenten raadplegen.",
+      "version": "0.0.1",
+      "author": "ROICT",
+      "category": "Business",
+      "icon": "people",
+      "tags": [
+        "klanten",
+        "offertes",
+        "facturen",
+        "portal",
+        "crm",
+        "business",
+        "frontend-login"
+      ],
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "requires": ["frontend-login"],
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/customer-portal.zip"
+    },
+    {
       "slug": "comments",
       "name": "Reacties",
       "description": "Laat bezoekers reacties plaatsen op pagina's en nieuwsberichten. Met moderatie, spambeveiliging en een inbox in het admin paneel.",
