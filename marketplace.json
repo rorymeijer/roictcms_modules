@@ -22,8 +22,11 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "requires": ["frontend-login"],
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/customer-portal.zip"
+      "requires": [
+        "frontend-login"
+      ],
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/customer-portal.zip",
+      "status": "alpha"
     },
     {
       "slug": "comments",
@@ -292,7 +295,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/slider.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/slider.zip",
+      "status": "alpha"
     },
     {
       "slug": "video-gallery",
@@ -312,7 +316,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/video-gallery.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/video-gallery.zip",
+      "status": "alpha"
     },
     {
       "slug": "file-library",
@@ -331,7 +336,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/file-library.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/file-library.zip",
+      "status": "alpha"
     },
     {
       "slug": "testimonials",
@@ -350,7 +356,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/testimonials.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/testimonials.zip",
+      "status": "alpha"
     },
     {
       "slug": "portfolio",
@@ -369,7 +376,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/portfolio.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/portfolio.zip",
+      "status": "alpha"
     },
     {
       "slug": "team",
@@ -388,7 +396,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/team.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/team.zip",
+      "status": "alpha"
     },
     {
       "slug": "events",
@@ -407,7 +416,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/events.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/events.zip",
+      "status": "alpha"
     },
     {
       "slug": "vacancies",
@@ -426,7 +436,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/vacancies.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/vacancies.zip",
+      "status": "alpha"
     },
     {
       "slug": "reservations",
@@ -445,7 +456,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/reservations.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/reservations.zip",
+      "status": "alpha"
     },
     {
       "slug": "cookie-consent",
@@ -465,7 +477,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cookie-consent.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cookie-consent.zip",
+      "status": "alpha"
     },
     {
       "slug": "poll",
@@ -484,7 +497,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/poll.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/poll.zip",
+      "status": "alpha"
     },
     {
       "slug": "price-list",
@@ -503,7 +517,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/price-list.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/price-list.zip",
+      "status": "alpha"
     },
     {
       "slug": "google-maps",
@@ -522,7 +537,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/google-maps.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/google-maps.zip",
+      "status": "alpha"
     },
     {
       "slug": "social-feed",
@@ -542,7 +558,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/social-feed.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/social-feed.zip",
+      "status": "alpha"
     },
     {
       "slug": "rss-importer",
@@ -562,7 +579,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rss-importer.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rss-importer.zip",
+      "status": "alpha"
     },
     {
       "slug": "webhook-manager",
@@ -582,7 +600,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/webhook-manager.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/webhook-manager.zip",
+      "status": "alpha"
     },
     {
       "slug": "popup-manager",
@@ -601,7 +620,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/popup-manager.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/popup-manager.zip",
+      "status": "alpha"
     },
     {
       "slug": "audit-log",
@@ -621,7 +641,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/audit-log.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/audit-log.zip",
+      "status": "alpha"
     },
     {
       "slug": "search",
@@ -640,7 +661,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/search.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/search.zip",
+      "status": "alpha"
     },
     {
       "slug": "multilingual",
@@ -660,7 +682,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/multilingual.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/multilingual.zip",
+      "status": "alpha"
     },
     {
       "slug": "import-export",
@@ -680,7 +703,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/import-export.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/import-export.zip",
+      "status": "alpha"
     },
     {
       "slug": "cache-manager",
@@ -699,7 +723,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cache-manager.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/cache-manager.zip",
+      "status": "alpha"
     },
     {
       "slug": "rest-api",
@@ -719,7 +744,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rest-api.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/rest-api.zip",
+      "status": "alpha"
     },
     {
       "slug": "maintenance-page",
@@ -738,7 +764,8 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/maintenance-page.zip"
+      "download_url": "https://github.com/rorymeijer/roictcms_modules/raw/main/maintenance-page.zip",
+      "status": "alpha"
     }
   ],
   "themes": []
