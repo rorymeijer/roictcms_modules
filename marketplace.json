@@ -22,12 +22,12 @@
     },
     {
       "slug": "site-statistics",
-      "name": "Site statistieken",
+      "name": "Site Statistieken",
       "description": "Bekijk de statistieken zoals bezoekersaantallen van je website.",
       "version": "1.0.2",
       "author": "ROICT",
       "author_url": "https://roict.nl",
-      "category": "Statistics",
+      "category": "Analytics",
       "icon": "world",
       "tags": [
         "statistieken",
