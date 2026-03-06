@@ -112,38 +112,30 @@ function cp_recalculate_invoice(int $invoiceId): void
 // Admin navigatie
 // ----------------------------------------------------------------
 add_action('admin_sidebar_nav', function (string $activePage) {
+    $base  = BASE_URL . '/admin/modules/customer-portal/';
     $pages = [
-        'klantenpaneel'          => ['label' => 'Klanten',    'icon' => 'people',        'url' => BASE_URL . 'admin/?module=customer-portal&page=customers'],
-        'klantenpaneel-quotes'   => ['label' => 'Offertes',   'icon' => 'file-earmark-text', 'url' => BASE_URL . 'admin/?module=customer-portal&page=quotes'],
-        'klantenpaneel-invoices' => ['label' => 'Facturen',   'icon' => 'receipt',       'url' => BASE_URL . 'admin/?module=customer-portal&page=invoices'],
-        'klantenpaneel-settings' => ['label' => 'Instellingen', 'icon' => 'gear',        'url' => BASE_URL . 'admin/?module=customer-portal&page=settings'],
+        'cp-customers' => ['label' => 'Klanten',      'icon' => 'bi-people',            'url' => $base . '?page=customers'],
+        'cp-quotes'    => ['label' => 'Offertes',      'icon' => 'bi-file-earmark-text', 'url' => $base . '?page=quotes'],
+        'cp-invoices'  => ['label' => 'Facturen',      'icon' => 'bi-receipt',           'url' => $base . '?page=invoices'],
+        'cp-settings'  => ['label' => 'Instellingen',  'icon' => 'bi-gear',              'url' => $base . '?page=settings'],
     ];
 
-    echo '<li class="nav-section-title mt-3">Klantenpaneel</li>';
+    $isActive = str_starts_with($activePage, 'cp-');
+    if ($isActive) {
+        echo '<li class="nav-section-title mt-3" style="color:#60a5fa;font-size:.7rem;font-weight:700;letter-spacing:.06em;padding:.5rem 1.25rem .2rem;text-transform:uppercase;">Klantenpaneel</li>';
+    } else {
+        echo '<li class="nav-section-title mt-3">Klantenpaneel</li>';
+    }
+
     foreach ($pages as $pageKey => $info) {
         $active = ($activePage === $pageKey) ? 'active' : '';
         printf(
-            '<li><a href="%s" class="nav-link %s"><sl-icon name="%s"></sl-icon> %s</a></li>',
+            '<li><a href="%s" class="nav-link %s"><i class="bi %s me-2"></i>%s</a></li>',
             e($info['url']),
             $active,
             e($info['icon']),
             e($info['label'])
         );
-    }
-});
-
-// ----------------------------------------------------------------
-// Admin paginarouter
-// ----------------------------------------------------------------
-add_action('admin_module_page', function (string $module, string $page) {
-    if ($module !== 'customer-portal') {
-        return;
-    }
-    $allowed = ['customers', 'quotes', 'invoices', 'settings'];
-    $page    = in_array($page, $allowed) ? $page : 'customers';
-    $file    = __DIR__ . '/admin/' . $page . '.php';
-    if (file_exists($file)) {
-        require $file;
     }
 });
 
