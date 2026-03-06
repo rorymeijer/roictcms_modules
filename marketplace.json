@@ -6,7 +6,7 @@
       "slug": "customer-portal",
       "name": "Klantenpaneel",
       "description": "Volledig klantenbeheer met offertes, facturen en een beveiligd frontend klantenpaneel. Klanten kunnen inloggen via de Frontend Login module en hun eigen documenten raadplegen.",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "author": "ROICT",
       "category": "Business",
       "icon": "people",
