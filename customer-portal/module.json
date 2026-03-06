@@ -1,0 +1,10 @@
+{
+  "name": "Klantenpaneel",
+  "version": "0.0.1",
+  "author": "ROICT",
+  "description": "Volledig klantenbeheer met offertes, facturen en een beveiligd frontend klantenpaneel. Werkt samen met de Frontend Login module zodat klanten hun eigen dossier kunnen raadplegen.",
+  "category": "Business",
+  "icon": "people",
+  "requires": ["frontend-login"],
+  "requires_php": "8.1"
+}
